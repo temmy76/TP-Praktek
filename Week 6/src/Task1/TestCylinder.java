@@ -30,7 +30,7 @@ public class TestCylinder { // save as "TestCylinder.java"
 	+ " volume=" + c3.getVolume());
 	
 	Cylinder c4 = new Cylinder();
-	System.out.println("Test to String : "+ c4.toString());
+	System.out.println("\nTest to String : "+ c4.toString());
 	}
 }
 
