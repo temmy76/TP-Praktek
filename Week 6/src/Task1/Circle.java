@@ -42,7 +42,7 @@ public class Circle { // Save as "Circle.java"
 	/** Returns the area of this Circle instance */
 	public double getArea() {
 		return radius*radius*Math.PI;
-	}
+	} 
 	
 	/** Return a self-descriptive string of this instance in the form of 
 	Circle[radius=?,color=?] */
